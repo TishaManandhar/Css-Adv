@@ -1,0 +1,220 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#eee;
+
+}
+img{
+    width:200px;
+    height:200px;
+}
+nav{
+    position:relative;
+    width:100%;
+    height:150px;
+    background-color:#fff;
+}
+
+label.logo
+{
+    color:black;
+    font-size:50px;
+    font-weight:bold;
+    padding:0 100px;
+    line-height:100px;
+}
+nav ul{
+    float:right;
+    margin-right:20px;
+}
+nav ul li{
+    list-style:none;
+    display:inline-block;
+    line-height:80px;
+    margin:0 5px;
+}
+ul li a{
+    display:block;
+    text-decoration:none;
+    font-size:20px;
+    font-family:arial;
+    color:#1e1e1e;
+    padding:10px;
+}
+nav p{
+    position:relative;
+    top:20px;
+    left:1750px;
+}
+
+h1.who{
+    margin-top:50px;
+    margin-left:50px;
+}
+
+.topleft{
+    background-color:#d3d3d3;
+    width:1000px;
+    height:300px;
+    margin-top:30px;
+    margin-left:50px;
+}
+
+.topleft img{
+    width:100px;
+    height:100px;
+    margin-top:10px;
+    margin-left:30px;
+}
+
+.topleft .description{
+    position:relative;
+    top:-90px;
+    left:150px;
+}
+
+.topleft .description p{
+    font-size:25px;
+}
+
+.topleft .description p.coca{
+    color:blue;
+    margin-bottom:10px;
+}
+
+.topleft .description p.lorem{
+    font-size:20px;
+    padding-top:30px;
+    padding-right:10px;
+}
+
+
+hr{
+    width:340px;
+}
+
+.topright{
+    background-color:#d3d3d3;
+    position:relative;
+    top:-290px;
+    left:1020px;
+    width:1000px;
+    height:300px;
+}
+
+.leftleft{
+    background-color:#d3d3d3;
+    position:relative;
+    top:-250px;
+    left:1010px;
+}
+
+.rightleft{
+    background-color:#d3d3d3;
+    position:relative;
+    top:-540px;
+}
+
+hr.black{
+    position:relative;
+    top:-500px;
+    color:black;
+    width:2050px;
+    border:1px solid black;
+}
+
+.sitemap{
+    margin-top:50px;
+}
+.sitemap ul{
+    position:relative;
+    top:-500px;
+
+}
+
+.sitemap h1{
+    font-size:30px;
+}
+
+.sitemap ul li {
+    list-style-type:none;
+}
+
+.vertical
+{
+        border-left: 6px solid black;
+        height: 300px;
+        position:relative;
+        left: 50%;
+        top:-780px;
+}
+
+.client{
+    position:relative;
+    top:-1100px;
+    left:700px;
+    height:500px;
+    width:300px;
+}
+.client h1{
+    font-size:35px;
+}
+
+.client p{
+    font-size:20px;
+}
+
+.client p.ipsum{
+    margin-top:20px;
+}
+
+.client p.greet{
+    margin-top:25px;
+}
+
+.vertical1
+{
+        border-left: 6px solid black;
+        height: 300px;
+        position:relative;
+        left: 130%;
+        top:-1580px;
+}
+
+.go{
+
+    position:relative;
+    top:-2000px;
+    left:1400px;
+    margin-top:50px;
+}
+
+.go img{
+    height:300px;
+    width:200px;
+    margin-top:80px;
+}
+
+.go .map{
+    position:relative;
+    left:300px;
+}
+
+.go .map .where{
+    position:relative;
+    top:-290px;
+    font-size:35px;
+}
+
+.go .map .call{
+    position:relative;
+    top:-250px;
+
+}
+
+.go .map .call p{
+    margin-top:5px;
+    font-size:20px;
+}
